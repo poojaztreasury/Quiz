@@ -15,7 +15,7 @@
             <asp:UpdatePanel ID="UpdatePanel2" runat="server">
                 <ContentTemplate>
                     <strong>
-                    <asp:Label ID="Label1" runat="server" BackColor="#FFFF99" Text="Label"></asp:Label>
+                    <asp:Label ID="BackColor" runat="server" BackColor="#FFFF99" Text="Label"></asp:Label>
                     </strong>
                     <br />
                     <asp:Timer ID="Timer1" runat="server" Interval="1000">
