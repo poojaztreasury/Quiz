@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Quiz_ajaxandxml", "Quiz_ajaxandxml\", "{1C6109D2-29BF-4C59-9E30-0B12B9CEFD93}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50588"
+		Debug.AspNetCompiler.PhysicalPath = "Quiz_ajaxandxml\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50588\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50588"
+		Release.AspNetCompiler.PhysicalPath = "Quiz_ajaxandxml\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50588\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50588"
+		SlnRelativePath = "Quiz_ajaxandxml\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C6109D2-29BF-4C59-9E30-0B12B9CEFD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6109D2-29BF-4C59-9E30-0B12B9CEFD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B64EB5-E7F8-4A21-8F74-AA1A15C8CF90}
+	EndGlobalSection
+EndGlobal

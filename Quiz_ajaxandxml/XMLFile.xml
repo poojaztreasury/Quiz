@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<questions>
+  <question id="101" desc="What is ASP.Net">
+    <choices>
+      <choice>abc</choice>
+      <choice>xyz</choice>
+      <choice>pqr</choice>
+    </choices>
+    
+  </question>
+
+  <question id="102" desc="What is Java">
+    <choices>
+      <choice>jjjjj</choice>
+      <choice>kkk</choice>
+      <choice>llll</choice>
+    </choices>
+
+  </question>
+
+  <question id="103" desc="What is SQL">
+    <choices>
+      <choice>lala</choice>
+      <choice>haha</choice>
+      <choice>hehe</choice>
+    </choices>
+
+  </question>
+
+  <question id="104" desc="What is Unix">
+    <choices>
+      <choice>lol</choice>
+      <choice>xxx</choice>
+      <choice>ppp</choice>
+    </choices>
+
+  </question>
+</questions>
